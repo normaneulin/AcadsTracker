@@ -1,2 +1,1 @@
-# AcadsTracker
-A web application which tracks your academic tasks efficiently.
+# AcadsTracker - Academic Task Management System
